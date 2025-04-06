@@ -14,7 +14,7 @@ Bachelor of Science candidate in **Information Technology in Accounting** with d
 
 ---
 ## <span style="color:#4682B4; font-size: 28px; font-weight: bold;">Education</span>
-- **Bentley University, Waltham, MA**  
+**Bentley University, Waltham, MA**  
   Bachelor of Science in Information Technology in Accounting, Additional Major: Finance and Technology  
   Minor: Business Administration  
   **GPA:** 4.00  | **Honors:** President's Scholarship, Honors Program
@@ -22,7 +22,7 @@ Bachelor of Science candidate in **Information Technology in Accounting** with d
 ---
 
 ## <span style="color:#4682B4; font-size: 28px; font-weight: bold;">Let's Connect</span>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrischatz21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrischatz21@gmail.com)
 
 ---
 
