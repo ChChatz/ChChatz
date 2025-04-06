@@ -16,7 +16,7 @@ Bachelor of Science candidate in **Information Technology in Accounting** with d
 
 ## Education
 
-Bentley University, Waltham MA  
+### Bentley University, Waltham MA  
 🎓 Bachelor of Science, Information Technology in Accounting & FinTech (Double Major)  
 📊 Minor: Business Administration  
 🏆 **GPA:** 4.00  | **Honors:** President's Scholarship, Honors Program
