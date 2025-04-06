@@ -17,11 +17,8 @@ Bachelor of Science candidate in **Information Technology in Accounting** with d
 - **Bentley University, Waltham, MA**  
   Bachelor of Science in Information Technology in Accounting, Additional Major: Finance and Technology  
   Minor: Business Administration  
-  **Expected Graduation:** May 2027  
-  **GPA:** 4.00  
-  **Honors:** President's Scholarship, Honors Program
+  **GPA:** 4.00  | **Honors:** President's Scholarship, Honors Program
   
-  Relevant Coursework: Systems Analysis, Programming, Digital Marketing, Finance and Technology
 ---
 
 ## <span style="color:#4682B4; font-size: 28px; font-weight: bold;">Let's Connect</span>
