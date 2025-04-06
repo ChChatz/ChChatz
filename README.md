@@ -20,7 +20,7 @@ Focus areas include IT audit, consulting. Experienced as a Technology Consultant
 
 <div>
 <h2>Technologies & Tools</h2>
-<div align="center">
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
